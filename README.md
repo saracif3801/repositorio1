@@ -1,4 +1,4 @@
 bienvenido-a
 Este  es el repositorio de mi proyecto
 
-recordar instalar lospaquetes de node-js
+recordar instalar los paquetes de node-js
